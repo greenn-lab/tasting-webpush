@@ -1,0 +1,12 @@
+spring:
+  devtools:
+    restart:
+      enabled: false
+    livereload:
+      enabled: false
+
+fcm.service-account-file: "todo-lunch-firebase-adminsdk-1irad-7358bbd840.json"
+
+server:
+  port: 8888
+
